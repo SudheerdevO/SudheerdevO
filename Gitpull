@@ -1,0 +1,2 @@
+This command used for the get data from the cloud to local by using git pull
+instead of using git fetch and git merge we are using gitpull
